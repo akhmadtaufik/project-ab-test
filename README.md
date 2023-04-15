@@ -1,6 +1,6 @@
 # Introduction
 
-Marketing campaigns can be optimized through A/B testing, which involves modifying a specific aspect of a campaign and comparing the results of two versions. A marketing firm conducted an A/B test comparing public service announcements (PSA) and advertisements to determine which message type would be more effective in increasing user conversions. The report will summarize the methodology, data analysis, and conclusions of the A/B test.
+This project dedicates to completing the final project in the Experimental Design & A/B Testing course by Paccman. Marketing campaigns can be optimized through A/B testing, which involves modifying a specific aspect of a campaign and comparing the results of two versions. A marketing firm conducted an A/B test comparing public service announcements (PSA) and advertisements to determine which message type would be more effective in increasing user conversions. The report will summarize the methodology, data analysis, and conclusions of the A/B test.
 
 # Setting Up Problem
 ## Experiment Goal
